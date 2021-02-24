@@ -34,6 +34,8 @@ $ cd .\SomaDivisiveis\
 ### Na pasta indes.js na linha 27 coloque o numero que deseja verificar a soma dos divisiveis
 SumDivisible(13);
 
+### após alterar salva o aruivo index modificado
+
 ### Via terminal/cmd execute
 $node .\index.js
 
