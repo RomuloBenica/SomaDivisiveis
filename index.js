@@ -19,9 +19,9 @@ function SumDivisible(numbers){
             cont += i;
         }
     }
-    console.log(cont);
+    console.log(`Soma dos divisiveis por 3 e 5 do numero ${numbers} = ${cont}`);
     
 }
 
 
-SumDivisible(13);
+SumDivisible(10);
