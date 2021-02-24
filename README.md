@@ -7,7 +7,7 @@
 <p align="center">
  <a href="#-pré-requisitos">Pré Requisitos</a> • 
  <a href="#-instalação">Instalação</a> •
- <a href="#-start-o-electron-e-o-servidor">Start</a> • 
+ <a href="#-start-e-teste">Start</a> • 
 </p>
 
 <h4 align="center"> 
