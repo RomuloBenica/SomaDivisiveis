@@ -1,0 +1,11 @@
+{
+  "name": "somadivisiveis",
+  "version": "1.0.0",
+  "description": "teste etapa 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Romulo Benica",
+  "license": "MIT"
+}
